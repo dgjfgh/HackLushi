@@ -1,4 +1,4 @@
-package com.skyline.wxjumphack.lushi;
+package com.demo.lushi;
 
 import javax.imageio.ImageIO;
 
